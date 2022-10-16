@@ -106,7 +106,7 @@ span.password {
 
 <form action="/signup.php" method="post">
   <div class="imgcontainer">
-    <img src="images/logo-kube.png" alt="Avatar" class="avatar">
+    <img src="images/logo_kube.png" alt="Avatar" class="avatar">
   </div>
 
   <div class="container">
