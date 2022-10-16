@@ -76,7 +76,7 @@ button:hover {
 
 img.avatar {
   width: 40%;
-  border-radius: 50%;
+  
 }
 
 .container {
