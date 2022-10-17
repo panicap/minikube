@@ -11,7 +11,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PANICAP222222222222222222222</title>
+	<title>PANICAP KUBERNETES APP</title>
 
 <style>
 
